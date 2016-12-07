@@ -1,0 +1,15 @@
+.ig-image img {
+	height: 252px;
+	width: 252px;
+	position: relative;
+	margin: 28px;
+}
+.instalogosprite {
+	background: url(sprites.png) no-repeat -177px 0;
+	width: 176px;
+	height: 35px !important;
+	margin: 10px 0px 0px 10px;
+}
+.btn-padding {
+	margin-right: 300px;
+}
